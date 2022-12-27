@@ -52,3 +52,4 @@ int main(void) {
   triagePatient("John", 30, "yes");
   return 0;
 }
+
